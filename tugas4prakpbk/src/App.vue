@@ -34,12 +34,12 @@ import SlotComponent from './components/Slot.vue';
   }
   .author {
     font-family: 'Montserrat', sans-serif;
-    position: absolute; /* Mengatur posisi absolut */
-    top: 0; /* Di pojok atas */
-    left: 0; /* Di pojok kiri */
+    position: absolute; 
+    top: 0; 
+    left: 0;
     margin: 10px;
     color: #603c04;
-    font-size: 22px; /* Ubah ukuran font */
+    font-size: 22px; 
   }
   .highlight {
     color: #ff6347;
